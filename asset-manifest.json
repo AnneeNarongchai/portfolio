@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d7eb513.css",
-    "main.js": "/static/js/main.1d7c57b3.js",
+    "main.css": "/static/css/main.d58c6327.css",
+    "main.js": "/static/js/main.aae16dfe.js",
     "static/media/InknutAntiqua-Regular.ttf": "/static/media/InknutAntiqua-Regular.0490c4cc5dba1fabcf51.ttf",
     "static/media/Volkhov-Regular.ttf": "/static/media/Volkhov-Regular.345adbefcd418ae2ccc7.ttf",
     "static/media/AMGaea.ttf": "/static/media/AMGaea.23da4be92dacfdc4c51e.ttf",
@@ -10,11 +10,11 @@
     "static/media/lg.ttf?io9a6k": "/static/media/lg.747d038541bfc6bb8ea9.ttf",
     "static/media/lg.woff2?io9a6k": "/static/media/lg.64b800aa30714fd916dc.woff2",
     "index.html": "/index.html",
-    "main.0d7eb513.css.map": "/static/css/main.0d7eb513.css.map",
-    "main.1d7c57b3.js.map": "/static/js/main.1d7c57b3.js.map"
+    "main.d58c6327.css.map": "/static/css/main.d58c6327.css.map",
+    "main.aae16dfe.js.map": "/static/js/main.aae16dfe.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d7eb513.css",
-    "static/js/main.1d7c57b3.js"
+    "static/css/main.d58c6327.css",
+    "static/js/main.aae16dfe.js"
   ]
 }
