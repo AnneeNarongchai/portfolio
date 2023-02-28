@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d58c6327.css",
+    "main.css": "/static/css/main.cc00399f.css",
     "main.js": "/static/js/main.0f104efa.js",
     "static/media/InknutAntiqua-Regular.ttf": "/static/media/InknutAntiqua-Regular.0490c4cc5dba1fabcf51.ttf",
     "static/media/Volkhov-Regular.ttf": "/static/media/Volkhov-Regular.345adbefcd418ae2ccc7.ttf",
@@ -10,11 +10,11 @@
     "static/media/lg.ttf?io9a6k": "/static/media/lg.747d038541bfc6bb8ea9.ttf",
     "static/media/lg.woff2?io9a6k": "/static/media/lg.64b800aa30714fd916dc.woff2",
     "index.html": "/index.html",
-    "main.d58c6327.css.map": "/static/css/main.d58c6327.css.map",
+    "main.cc00399f.css.map": "/static/css/main.cc00399f.css.map",
     "main.0f104efa.js.map": "/static/js/main.0f104efa.js.map"
   },
   "entrypoints": [
-    "static/css/main.d58c6327.css",
+    "static/css/main.cc00399f.css",
     "static/js/main.0f104efa.js"
   ]
 }
