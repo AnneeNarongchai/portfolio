@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc00399f.css",
-    "main.js": "/static/js/main.0f104efa.js",
+    "main.css": "/static/css/main.e4b8e0d6.css",
+    "main.js": "/static/js/main.8e503a73.js",
     "static/media/InknutAntiqua-Regular.ttf": "/static/media/InknutAntiqua-Regular.0490c4cc5dba1fabcf51.ttf",
     "static/media/Volkhov-Regular.ttf": "/static/media/Volkhov-Regular.345adbefcd418ae2ccc7.ttf",
     "static/media/AMGaea.ttf": "/static/media/AMGaea.23da4be92dacfdc4c51e.ttf",
@@ -10,11 +10,11 @@
     "static/media/lg.ttf?io9a6k": "/static/media/lg.747d038541bfc6bb8ea9.ttf",
     "static/media/lg.woff2?io9a6k": "/static/media/lg.64b800aa30714fd916dc.woff2",
     "index.html": "/index.html",
-    "main.cc00399f.css.map": "/static/css/main.cc00399f.css.map",
-    "main.0f104efa.js.map": "/static/js/main.0f104efa.js.map"
+    "main.e4b8e0d6.css.map": "/static/css/main.e4b8e0d6.css.map",
+    "main.8e503a73.js.map": "/static/js/main.8e503a73.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc00399f.css",
-    "static/js/main.0f104efa.js"
+    "static/css/main.e4b8e0d6.css",
+    "static/js/main.8e503a73.js"
   ]
 }
